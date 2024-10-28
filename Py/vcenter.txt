@@ -1,0 +1,2 @@
+host=vcenter01-ainsley.ainsley.local
+user=administrator@vcenter.local
